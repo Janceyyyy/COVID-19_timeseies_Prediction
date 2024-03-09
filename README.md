@@ -33,7 +33,7 @@ This project explores various techniques for time series forecasting, structured
 
 
 ## Visualizations
-- Emphasis on visual insights including time series plots, decomposition charts, and prediction accuracy.
+- Implement interactive plotting features for visual insights, such as time series analysis, decomposition charts, and prediction accuracy evaluation.
 ![(!\[alt text\](pictures/newyork.png))](pictures/newyork.png)
 
 ## result
